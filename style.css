@@ -1,0 +1,29 @@
+
+body {
+    background-color: rgb(110, 58, 158);
+}
+main {
+    background-color: rgb(150, 128, 128);
+    width: 550px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3ox 5px black;
+}
+img.lado {
+    float: right;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(25, 25, 214);
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgba(79, 32, 207, 0.87); 
+    font-size: 25px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
